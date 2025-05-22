@@ -1,0 +1,6 @@
+# This file is intentionally left blank.
+tensorflow>=2.8.0  # Or tensorflow-gpu if you have a compatible GPU and CUDA setup
+numpy>=1.19.5
+matplotlib>=3.3.4
+scikit-learn>=0.24.2
+seaborn>=0.11.1 # For confusion matrix plotting
