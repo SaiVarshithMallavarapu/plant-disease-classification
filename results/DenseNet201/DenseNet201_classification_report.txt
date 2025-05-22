@@ -1,0 +1,21 @@
+Model: DenseNet201
+Test Loss: 0.2942
+Test Accuracy: 0.8961
+
+Classification Report:
+                       precision    recall  f1-score   support
+
+        Mossaic Virus     0.0000    0.0000    0.0000         3
+      Southern blight     0.7000    1.0000    0.8235         7
+Sudden Death Syndrone     0.9231    1.0000    0.9600        12
+        Yellow Mosaic     0.9231    1.0000    0.9600        12
+     bacterial_blight     1.0000    1.0000    1.0000         9
+           brown_spot     1.0000    1.0000    1.0000         9
+          crestamento     1.0000    1.0000    1.0000         1
+             ferrugen     0.7000    1.0000    0.8235         7
+       powdery_mildew     1.0000    0.8571    0.9231        14
+             septoria     0.0000    0.0000    0.0000         3
+
+             accuracy                         0.8961        77
+            macro avg     0.7246    0.7857    0.7490        77
+         weighted avg     0.8436    0.8961    0.8635        77
